@@ -30,10 +30,6 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Books
 
 ## Posts
-- [Modular JavaScript: A Beginners' guide to SystemJS and jspm](https://www.sitepoint.com/modular-javascript-systemjs-jspm/) - An article in Sitepoint by Ravi.
-- [Use jspm to harness the future of JavaScript modules](https://www.ibm.com/developerworks/library/wa-use-jspm-javascript-modules/index.html) - A Blogpost by Matt C. Tyson from IBM.
-- [JavaScript Modules and Dependencies with jspm](https://www.jackfranklin.co.uk/blog/js-modules-jspm-systemjs/) - Blogpost by Jack Franklin.
-- [Introduction to the Jspm Package Manager and SystemJs Module Loader](https://dzone.com/articles/introduction-to-the-jspm-package-manager-and-the-s-1) - DZone article by Vasco Ferriera C.
 - [jspm vs npm for JavaScript Package Management](https://www.zymr.com/jspm-vs-npm-javascript-package-management/) - Blogpost by Sanjay P.
 - [jspm basics & review](https://advancedweb.hu/jspm-basics-and-review/) - Blogpost by Tamas Sallai from Advanced Web Machinery.
 
@@ -55,6 +51,12 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Getting started with Angular + jspm + ES6](https://egghead.io/lessons/angularjs-getting-started-with-angular-jspm-es6) - Egghead.io course on Angular with jspm by Scott Moss.
 
 ## Older Resources
+
+### Posts
+- [Modular JavaScript: A Beginners' guide to SystemJS and jspm](https://www.sitepoint.com/modular-javascript-systemjs-jspm/) - An article in Sitepoint by Ravi.
+- [Use jspm to harness the future of JavaScript modules](https://www.ibm.com/developerworks/library/wa-use-jspm-javascript-modules/index.html) - A Blogpost by Matt C. Tyson from IBM.
+- [JavaScript Modules and Dependencies with jspm](https://www.jackfranklin.co.uk/blog/js-modules-jspm-systemjs/) - Blogpost by Jack Franklin.
+- [Introduction to the Jspm Package Manager and SystemJs Module Loader](https://dzone.com/articles/introduction-to-the-jspm-package-manager-and-the-s-1) - DZone article by Vasco Ferriera C.
 
 ### Videos
 - [JSPM is the JavaScript package manager from future](https://www.youtube.com/watch?v=vAK4XL0rWro) - A talk about jspm by Kushan Joshi - FOSSASIA Summit 2016.

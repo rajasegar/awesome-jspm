@@ -34,7 +34,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Use jspm to harness the future of JavaScript modules](https://www.ibm.com/developerworks/library/wa-use-jspm-javascript-modules/index.html) - A Blogpost by Matt C. Tyson from IBM
 - [JavaScript Modules and Dependencies with jspm](https://www.jackfranklin.co.uk/blog/js-modules-jspm-systemjs/) - Blogpost by Jack Franklin
 - [Introduction to the Jspm Package Manager and SystemJs Module Loader](https://dzone.com/articles/introduction-to-the-jspm-package-manager-and-the-s-1) - DZone article by Vasco Ferriera C.
-- [jspm vs npm for Ja](https://www.zymr.com/jspm-vs-npm-javascript-package-management/) - Blogpost by Sanjay P
+- [jspm vs npm for JavaScript Package Management](https://www.zymr.com/jspm-vs-npm-javascript-package-management/) - Blogpost by Sanjay P
 - [jspm basics & review](https://advancedweb.hu/jspm-basics-and-review/) - Blogpost by Tamas Sallai from Advanced Web Machinery
 
 ## Videos

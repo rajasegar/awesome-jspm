@@ -29,13 +29,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Books
 
-## Posts
-- [jspm vs npm for JavaScript Package Management](https://www.zymr.com/jspm-vs-npm-javascript-package-management/) - Blogpost by Sanjay P.
-- [jspm basics & review](https://advancedweb.hu/jspm-basics-and-review/) - Blogpost by Tamas Sallai from Advanced Web Machinery.
-
 ## Videos
 - [The hidden complexities of import maps](https://www.youtube.com/watch?v=keKKODs6Z7M) - A talk by Guy Bedford in ESNext Conf 2020.
-
 
 ## Slides
 - [Hidden complexities of import maps](https://docs.google.com/presentation/d/1CiGXMMER8E_PUsUy0fZ2M2iu2oN7RyXVO7BILw11KkE/edit?usp=sharing) - Slides for Guy Bedford's talk in ESNext Conf 2020.
@@ -46,11 +41,15 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [@jspm](https://twitter.com/jspm) - Official Twitter account for jspm.
 - [Guy Bedford](https://twitter.com/guybedford) - Twitter handle of Guy Bedford, creator of jspm.
 
+## Older Resources
+
+## Posts
+- [jspm vs npm for JavaScript Package Management](https://www.zymr.com/jspm-vs-npm-javascript-package-management/) - Blogpost by Sanjay P.
+- [jspm basics & review](https://advancedweb.hu/jspm-basics-and-review/) - Blogpost by Tamas Sallai from Advanced Web Machinery.
+
 ## Courses and Tutorials
 - [An Introduction to jspm](https://egghead.io/lessons/javascript-an-introduction-to-javascript-package-manager-jspm) - Egghead.io course on jspm by John Lindquist.
 - [Getting started with Angular + jspm + ES6](https://egghead.io/lessons/angularjs-getting-started-with-angular-jspm-es6) - Egghead.io course on Angular with jspm by Scott Moss.
-
-## Older Resources
 
 ### Posts
 - [Modular JavaScript: A Beginners' guide to SystemJS and jspm](https://www.sitepoint.com/modular-javascript-systemjs-jspm/) - An article in Sitepoint by Ravi.
